@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Godi Giridhar</h1>
 <h3 align="center">Aspiring Full Stack Developer | MERN Stack Developer | Passionate About Building Web Applications</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=giridhar-14" alt="giridhar-14" /></a> </p>
 
 - 🔭 I’m currently working on **MERN Stack projects**
 
