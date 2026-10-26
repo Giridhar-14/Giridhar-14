@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 👯 I’m looking to collaborate on **collaborate on MERN Stack projects**
+- 👯 I’m looking to on **collaborate on MERN Stack projects**
 
 - 🤝 I’m looking for help with **help with Advanced React.js and Node.js concepts**
 
